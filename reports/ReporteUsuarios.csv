@@ -1,0 +1,5 @@
+id,nombre,correo,telefono,fecha_registro
+1,Juan Perez,juan.perez@example.com,123456789,2025-04-14 21:49:42
+2,Ana Gomez,ana.gomez@example.com,987654321,2025-04-14 21:49:42
+3,Luis Martinez,luis.martinez@example.com,111222333,2025-04-14 21:49:42
+4,Maria Lopez,maria.lopez@example.com,444555666,2025-04-14 21:49:42

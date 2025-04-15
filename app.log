@@ -1,0 +1,42 @@
+2025-04-15 00:21:00,629 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-15 00:21:00,632 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:21:00,632 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-15 00:21:09,389 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-15 00:22:36,203 - domotes-app - INFO - La aplicación ha iniciado correctamente.
+2025-04-15 00:22:36,204 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-15 00:22:36,206 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:22:36,207 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-15 00:24:15,058 - domotes-app - INFO - La aplicación se ha detenido.
+2025-04-15 00:24:15,058 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-15 00:24:18,357 - domotes-app - INFO - La aplicación ha iniciado correctamente.
+2025-04-15 00:24:18,359 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-15 00:24:18,366 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:24:18,368 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-15 00:24:19,078 - domotes-app - INFO - La aplicación se ha detenido.
+2025-04-15 00:24:19,079 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-15 00:24:21,983 - domotes-app - INFO - La aplicación ha iniciado correctamente.
+2025-04-15 00:24:21,986 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-15 00:24:21,989 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:24:21,989 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-15 00:24:31,054 - domotes-app - INFO - La aplicación se ha detenido.
+2025-04-15 00:24:31,054 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-15 00:24:45,755 - domotes-app - INFO - La aplicación ha iniciado correctamente.
+2025-04-15 00:24:45,760 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-15 00:24:45,765 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:24:45,769 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-15 00:26:36,859 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:28:27,097 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:31:45,735 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:34:14,126 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:36:15,752 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:36:26,846 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:37:00,018 - apscheduler.executors.default - INFO - Running job "execute_query (trigger: cron[hour='0', minute='37'], next run at: 2025-04-15 00:37:00 -05)" (scheduled at 2025-04-15 00:37:00-05:00)
+2025-04-15 00:37:03,557 - apscheduler.executors.default - INFO - Job "execute_query (trigger: cron[hour='0', minute='37'], next run at: 2025-04-16 00:37:00 -05)" executed successfully
+2025-04-15 00:38:30,208 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:39:00,009 - apscheduler.executors.default - INFO - Running job "execute_query (trigger: cron[hour='0', minute='39'], next run at: 2025-04-16 00:39:00 -05)" (scheduled at 2025-04-15 00:39:00-05:00)
+2025-04-15 00:39:02,745 - apscheduler.executors.default - INFO - Job "execute_query (trigger: cron[hour='0', minute='39'], next run at: 2025-04-16 00:39:00 -05)" executed successfully
+2025-04-15 00:40:45,107 - apscheduler.scheduler - INFO - Added job "execute_query" to job store "default"
+2025-04-15 00:41:00,000 - apscheduler.executors.default - INFO - Running job "execute_query (trigger: cron[hour='0', minute='41'], next run at: 2025-04-16 00:41:00 -05)" (scheduled at 2025-04-15 00:41:00-05:00)
+2025-04-15 00:41:01,710 - apscheduler.executors.default - INFO - Job "execute_query (trigger: cron[hour='0', minute='41'], next run at: 2025-04-16 00:41:00 -05)" executed successfully
+2025-04-15 00:46:48,469 - domotes-app - INFO - La aplicación se ha detenido.
+2025-04-15 00:46:48,470 - apscheduler.scheduler - INFO - Scheduler has been shut down

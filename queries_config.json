@@ -1,0 +1,10 @@
+[
+    {
+        "name": "ConsultaTodosLosUsuarios",
+        "query": "SELECT * FROM usuarios",
+        "schedule": {
+            "hour": 21,
+            "minute": 50
+        }
+    }
+]
